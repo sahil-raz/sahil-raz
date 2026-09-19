@@ -13,27 +13,27 @@
 - 📍 I’m from **Patna, Bihar, India**
 - 💼 Owner of **multiple Telegram Bots & Web Projects**
 - 🏆 I love coding and building **unique solutions**  
-- 📧 Reach me at **sahilraz9265@gmail.com**
+- 📧 Reach me at **sahil-raz9265@gmail.com**
 - 💬 Fun Fact: **I'm Funny**
 
 
 ## 🌐 Socials:
-[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/_SahilRaz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/urr_wishes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahilraz) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/aadarsh_gc) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:sahilraz9265@gmail.com)
+[![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://x.com/_SahilRaz) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/urr_wishes) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/sahil-raz) [![Telegram](https://img.shields.io/badge/Telegram-%231DA1F2.svg?logo=Telegram&logoColor=white)](https://t.me/aadarsh_gc) [![Gmail](https://img.shields.io/badge/Gmail-D14836?logo=Gmail&logoColor=white)](mailto:sahil-raz9265@gmail.com)
 
 # 📊 GitHub Stats:
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sahilraz&show_icons=true&theme=radical" width="48%"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahilraz&theme=radical" width="48%"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahilraz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=48%/>
+  <img src="https://github-readme-stats.vercel.app/api?username=sahil-raz&show_icons=true&theme=radical" width="48%"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sahil-raz&theme=radical" width="48%"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sahil-raz&theme=radical&hide_border=false&include_all_commits=false&count_private=false&layout=compact" width=48%/>
 </p>
 
 ### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=sahilraz&limit=5&theme=radical&combine_all_yearly_contributions=true)
+![](https://github-contributor-stats.vercel.app/api?username=sahil-raz&limit=5&theme=radical&combine_all_yearly_contributions=true)
 
 ## 🔥 GitHub Stars:
 <p align="center">
-  <img src="https://img.shields.io/github/stars/sahilraz/sahilraz" alt="Total Stars"/>
+  <img src="https://img.shields.io/github/stars/sahil-raz/sahil-raz" alt="Total Stars"/>
 </p>
 
 ## 🐍 My Contributions 🐍
@@ -136,11 +136,11 @@ If you like my work, consider supporting me via Paytm!
 
 **Paytm UPI ID:** `paytmqr13f34lb8t2@paytm`
 
-<p><a href="https://www.buymeacoffee.com/devilboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahilraz" /></a></p><br><br>
+<p><a href="https://www.buymeacoffee.com/devilboy"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="sahil-raz" /></a></p><br><br>
 
 ## 🚀 Fun Fact:
 💡 *"Keep learning, keep building!"* 🚀
 
 ---
 # 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahilraz&label=%F0%9F%91%A4Profile%20views%20%20&color=4caf50&style=flat-square&label_color=ffffff" alt="Profile views" style="border-radius:15px;padding:4px;background:linear-gradient(90deg,#4caf50,#2196f3);box-shadow:0 6px 20px rgba(0,0,0,0.25);"/> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=sahil-raz&label=%F0%9F%91%A4Profile%20views%20%20&color=4caf50&style=flat-square&label_color=ffffff" alt="Profile views" style="border-radius:15px;padding:4px;background:linear-gradient(90deg,#4caf50,#2196f3);box-shadow:0 6px 20px rgba(0,0,0,0.25);"/> </p>
